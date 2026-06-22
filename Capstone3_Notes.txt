@@ -1,0 +1,10 @@
+Region: East
+
+Main goal:
+Create a Power BI report analyzing EmporiUm East region sales from 2022–2025.
+
+Required visuals:
+1. Line chart showing sales trends over time
+2. Bar or column chart showing sales by category
+3. Pie or donut chart showing sales by state in the East region
+4. Top-selling general books with author names, excluding textbooks
