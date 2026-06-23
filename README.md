@@ -15,6 +15,8 @@ The purpose of this report is to help the East region sales team better understa
 * Power Query
 * DAX
 * GitHub
+* Excel
+* MS PowerPoint
 
 ## Data Sources
 
@@ -32,7 +34,25 @@ This report helps answer the following questions:
 
 ## Key Insights
 
-Key insights will be added after the final Power BI visuals are completed.
+* East region sales totaled $6.72M from 2022 to 2025.
+* Sales increased from $1.09M in 2022 to $1.60M in 2023, a $510.55K increase, or 46.98% growth.
+* Sales stayed almost flat from 2023 to 2024, increasing by only $5.44K, or 0.34%.
+* The strongest year-over-year growth happened from 2024 to 2025, when sales increased from $1.60M to $2.44M, a $833.99K increase, or 52.04% growth.
+* Technology & Accessories was the strongest sales category every year and was the main revenue driver for the East region.
+* New York generated the largest share of East region sales, while Connecticut also had strong store-level performance.
+* The top store in New York was New York, with about $622K in sales.
+* The top store in Connecticut was New London, with about $331K in sales.
+* The top-selling general-audience book was Harry Potter and the Sorcerer’s Stone by J.K. Rowling, with $3,499.32 in sales and 121 transactions.
+
+## Recommendation
+
+EmporiUm should investigate what changed in 2025 that led to the strongest year-over-year growth, especially within Technology & Accessories, which remained the main sales driver each year. Because this category generates the highest revenue, the East regional team should prioritize technology inventory planning before peak sales periods and ensure stores are prepared for demand for high-value items.
+
+At the same time, since EmporiUm is still a bookstore, the top-selling general-audience books should not be ignored. Titles like Harry Potter and the Sorcerer’s Stone, The Art of War, and Of Mice and Men can be used for featured displays, seasonal promotions, or bundle opportunities with related products. This would allow EmporiUm to continue supporting its strongest revenue category while also using book trends to enhance the in-store experience and drive additional sales.
+
+## Power BI Report
+
+Power BI Service link will be added here after publishing the final report.
 
 ## Video Demo
 
