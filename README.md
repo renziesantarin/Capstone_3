@@ -17,6 +17,8 @@ The purpose of this report is to help the East region sales team better understa
 * GitHub
 * Excel
 * MS PowerPoint
+* Notepad
+* ChatGPT
 
 ## Data Sources
 
@@ -50,10 +52,10 @@ EmporiUm should investigate what changed in 2025 that led to the strongest year-
 
 At the same time, since EmporiUm is still a bookstore, the top-selling general-audience books should not be ignored. Titles like Harry Potter and the Sorcerer’s Stone, The Art of War, and Of Mice and Men can be used for featured displays, seasonal promotions, or bundle opportunities with related products. This would allow EmporiUm to continue supporting its strongest revenue category while also using book trends to enhance the in-store experience and drive additional sales.
 
-## Power BI Report
+## Power BI Service Link
 
-Power BI Service link will be added here after publishing the final report.
+[Capstone 3 – Power BI](https://app.powerbi.com/groups/me/dashboards/59b9fbe7-635a-4bc5-9dbc-2302ebb51a5d?ctid=bbce5c37-f181-4d0c-9310-7f877336e1cf&pbi_source=linkShare)
 
 ## Video Demo
 
-Video link will be added here after recording.
+[Watch my Capstone 3 presentation video](https://yearuptemp-my.sharepoint.com/:v:/g/personal/dsharma_yearup_org/IQDVt5Z9Gsj-Q4h9gBOdDNmIAbgjPWLGXA8aiybggtDHpPk?e=gDuos2)
