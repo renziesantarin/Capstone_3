@@ -48,9 +48,11 @@ This report helps answer the following questions:
 
 ## Recommendation
 
-EmporiUm should investigate what changed in 2025 that led to the strongest year-over-year growth, especially within Technology & Accessories, which remained the main sales driver each year. Because this category generates the highest revenue, the East regional team should prioritize technology inventory planning before peak sales periods and ensure stores are prepared for demand for high-value items.
+Technology & Accessories continues to be the primary revenue driver for the East region, growing from $1.15M in 2024 to $1.77M in 2025, an increase of approximately 54%. Given its consistent dominance across all four years, inventory planning for this category should remain a strategic priority, particularly in advance of peak sales periods.
 
-At the same time, since EmporiUm is still a bookstore, the top-selling general-audience books should not be ignored. Titles like Harry Potter and the Sorcerer’s Stone, The Art of War, and Of Mice and Men can be used for featured displays, seasonal promotions, or bundle opportunities with related products. This would allow EmporiUm to continue supporting its strongest revenue category while also using book trends to enhance the in-store experience and drive additional sales.
+However, the performance of secondary categories in 2025 warrants equal attention. Books (General), Art Supplies, and Stationery each recorded over 100% year-over-year growth, while Apparel grew by approximately 90%. Although these categories remain smaller in absolute revenue, their accelerated growth rate suggests increasing customer engagement across EmporiUm's broader product offering.
+
+My recommendation is to evaluate opportunities to sustain this momentum, including expanded shelf space, seasonal promotions, and product bundling strategies to ensure these high-growth categories continue to develop alongside the Technology segment.
 
 ## Power BI Service Link
 
